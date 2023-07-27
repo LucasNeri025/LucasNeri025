@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu sou um Desenvolvedor em fase de transição<br>Tenho 22 anos, Iniciei o estudo na área de Programação há cerca de 01 ano, cursando análise e Desenvolvimento de software, na Estácio. Estou a procura de desafios para ampliar meu conhecimento.
+Eu sou um Desenvolvedor em fase de transição, Tenho 22 anos, Iniciei o estudo na área de Programação há cerca de 01 ano, cursando análise e Desenvolvimento de software, na Estácio. Estou a procura de desafios para ampliar meu conhecimento.
 
 
 ## 🌐 Socials:
